@@ -1,0 +1,166 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,700;1,600&family=Ubuntu:wght@400;500;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+.max-width {
+    max-width: 1300px;
+    padding: 0 80px;
+    margin: auto;
+}
+
+/* navbar styling */
+
+.nav {
+    position: fixed;
+    width: 100%;
+    padding: 20px 0;
+    z-index: 999;
+    font-family: 'Ubuntu',sans-serif;
+    transition: all 0.3s ease;
+    background: rgba(0, 0, 0, 0.3);
+}
+
+.nav .max-width {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav .logo a {
+    font-size: 35px;
+    font-weight: 600;
+    color: white;
+}
+.nav .logo a span {
+    color: crimson;
+}
+.nav .menu .li {
+    list-style: none;
+    display: inline-block;
+}
+
+.nav .menu .li a {
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+    margin-left: 20px;
+    transform: color 0.3s ease;
+    cursor: pointer;
+}
+
+.nav .menu .li a:hover {
+    color: crimson;
+    cursor: pointer;
+}
+
+/* home content styling */
+.home {
+    display: flex;
+    height: 100vh;
+    color: white;
+    min-height: 500px;
+    font-family: 'Ubuntu',sans-serif;
+}
+
+img {
+    max-height: 100%;
+    max-width: 100%;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: 0;
+    height: 100%;
+}
+
+/* Bio section Styling */
+
+.bio {
+    display: flex;
+    flex-direction: column;
+    min-height: 500px;
+    font-family: 'Ubuntu',sans-serif;
+    background-color: rgb(20, 21, 21);
+    color: white;
+}
+
+.bio h1 {
+    text-align: center;
+    margin-top: 100px;
+    font-size: 2em;
+}
+
+.bio .content {
+    display: block;
+    text-align: justify;
+    margin: 25px auto 25px auto;
+    width: 60vw;
+    font-size: 1.2em;
+    border: 2px solid bisque;
+    padding: 30px;
+}
+
+/* Social Media Section styling */
+
+.socialmedia {
+    background: url('https://wallpaperaccess.com/full/143811.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+}
+
+.socialmedia .header {
+    text-align: center;
+    padding: 32px;
+}
+
+.socialmedia .header h1 {
+    margin-top: 80px;
+    font-size: 2em;
+    color: white;
+}
+
+.socialmedia img {
+    max-width: 100%;
+    max-height: 100%;
+    width: 20vw;
+    height: 20vh;
+}
+
+.socialmedia .social-logo {
+    display: block;
+    margin-top: 150px;
+}
+
+.coloumn img{
+    max-width: 140px;
+    max-height: 140px;
+    float: left;
+    width: 20vw;
+    padding: 25px 10px 0 0;
+    margin: auto;
+  
+}
+
+#img1 {
+    margin-left: 100px;
+}
+
+#img3 {
+    margin-right: 100px;
+}
+
+.social-logo a::after {
+    content: "";
+    clear: both;
+    display: table;
+}
