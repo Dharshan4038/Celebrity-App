@@ -36,6 +36,7 @@ export class Home extends React.Component {
         <div id="Home" className="slideshow-container">
           <img
             src={this.state.images[this.state.currentImage]}
+            className="pics"
           />
         </div>
       );
