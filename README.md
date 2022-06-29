@@ -1,0 +1,3 @@
+# Celebrity-App
+
+This is a celebrity app for an actor "Kamal Hassan"...
