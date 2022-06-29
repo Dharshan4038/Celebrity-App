@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Celebrity-App/static/css/main.40aa8089.css",
+    "main.js": "/Celebrity-App/static/js/main.746e34c1.js",
+    "static/media/instagram.png": "/Celebrity-App/static/media/instagram.8813ee4ddfbe23739448.png",
+    "static/media/image-5.jpg": "/Celebrity-App/static/media/image-5.bf2adf0560afb3cf32b5.jpg",
+    "static/media/image-1.jpg": "/Celebrity-App/static/media/image-1.0ab3521abbd6d0dbb0d9.jpg",
+    "static/media/image-2.jpg": "/Celebrity-App/static/media/image-2.93793c04a3877fb9bd20.jpg",
+    "static/media/image-3.jpg": "/Celebrity-App/static/media/image-3.5b2b7c963c13a7c644bf.jpg",
+    "static/media/twitter.png": "/Celebrity-App/static/media/twitter.16d7cf3742c8ecd32518.png",
+    "static/media/image-4.jpg": "/Celebrity-App/static/media/image-4.aab5956d727ff4355e4c.jpg",
+    "static/media/facebook.png": "/Celebrity-App/static/media/facebook.927f0293c22a728a97ba.png",
+    "index.html": "/Celebrity-App/index.html",
+    "main.40aa8089.css.map": "/Celebrity-App/static/css/main.40aa8089.css.map",
+    "main.746e34c1.js.map": "/Celebrity-App/static/js/main.746e34c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40aa8089.css",
+    "static/js/main.746e34c1.js"
+  ]
+}
