@@ -1,2 +1,2 @@
 # Celebrity-App
-#Go to `"<main>"` Branch to see the fiels..
+#Go to `"<main>"` Branch to see the files..
