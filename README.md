@@ -1,3 +1,6 @@
 # Celebrity-App
+  This Project was built using React JS..
 
-This is a celebrity app for an actor "Kamal Hassan"...
+# About
+  This is a celebrity app for an actor **Kamal Hassan**
+
